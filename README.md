@@ -25,6 +25,6 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecologia!
+Apaixonado por tecnologia!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9700&height=120&section=footer"/>
