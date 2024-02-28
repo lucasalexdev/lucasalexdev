@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_alexf/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalexfdev/)
 
-![lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasalexdev&show_icons=true&theme=great-gatsby&count_private=true)
+
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexdev&layout=compact&hide_border=false&title_color=DF8600&text_color=F4AE26&bg_color=000000" />
  
 
